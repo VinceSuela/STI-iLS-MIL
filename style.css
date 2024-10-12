@@ -61,6 +61,9 @@ text-decoration: none;
     outline: 20px solid #ff7b00ad;
 }
 
+.intro p {
+    margin-bottom: 20px;
+}
 
 
 #timeline {
